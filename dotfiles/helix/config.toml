@@ -1,0 +1,7 @@
+theme = "tokyonight"
+
+[editor]
+line-number = "relative"          # 或 "absolute"
+cursor-shape.insert = "bar"
+cursor-shape.normal = "block"
+cursor-shape.select = "underline"

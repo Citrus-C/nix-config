@@ -1,0 +1,8 @@
+[[language]]
+name = "nix"
+scope = "source.nix"
+file-types = ["nix"]
+language-servers = ["nil"]
+
+[language-server.nil]
+command = "nil"
