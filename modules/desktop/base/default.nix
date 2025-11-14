@@ -8,7 +8,6 @@
     ./network.nix
     ./nvidia.nix
     ./pipewire.nix
-    ./setting.nix
     ./theme.nix   
   ];
 }
